@@ -2,7 +2,7 @@
     "rust-analyzer.linkedProjects": [
         "2015/day_1/rust/Cargo.toml",
         "2015/day_2/rust/Cargo.toml",
-        // "2015/day_3/rust/Cargo.toml",
+        "2015/day_3/rust/Cargo.toml",
         // "2015/day_4/rust/Cargo.toml",
         // "2015/day_5/rust/Cargo.toml",
         // "2015/day_6/rust/Cargo.toml",
