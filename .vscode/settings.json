@@ -1,29 +1,5 @@
 {
     "rust-analyzer.linkedProjects": [
-        "2015/day_01/rust/Cargo.toml",
-        "2015/day_02/rust/Cargo.toml",
-        "2015/day_03/rust/Cargo.toml",
-        "2015/day_04/rust/Cargo.toml",
-        "2015/day_05/rust/Cargo.toml",
-        "2015/day_06/rust/Cargo.toml",
-        "2015/day_07/rust/Cargo.toml",
-        "2015/day_08/rust/Cargo.toml",
-        "2015/day_09/rust/Cargo.toml",
-        "2015/day_10/rust/Cargo.toml",
-        "2015/day_11/rust/Cargo.toml",
-        "2015/day_12/rust/Cargo.toml",
-        "2015/day_13/rust/Cargo.toml",
-        "2015/day_14/rust/Cargo.toml",
-        "2015/day_15/rust/Cargo.toml",
-        "2015/day_16/rust/Cargo.toml",
-        "2015/day_17/rust/Cargo.toml",
-        "2015/day_18/rust/Cargo.toml",
-        "2015/day_19/rust/Cargo.toml",
-        "2015/day_20/rust/Cargo.toml",
-        "2015/day_21/rust/Cargo.toml",
-        "2015/day_22/rust/Cargo.toml",
-        "2015/day_23/rust/Cargo.toml",
-        "2015/day_24/rust/Cargo.toml",
-        "2015/day_25/rust/Cargo.toml"
+        "rust/Cargo.toml"
     ]
 }
