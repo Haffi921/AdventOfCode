@@ -23,7 +23,7 @@
         "2015/day_21/rust/Cargo.toml",
         "2015/day_22/rust/Cargo.toml",
         "2015/day_23/rust/Cargo.toml",
-        // "2015/day_24/rust/Cargo.toml",
+        "2015/day_24/rust/Cargo.toml",
         // "2015/day_25/rust/Cargo.toml"
     ]
 }
