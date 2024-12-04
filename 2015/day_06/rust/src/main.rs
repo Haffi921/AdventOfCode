@@ -1,5 +1,3 @@
-use std::fs;
-
 #[derive(Debug)]
 enum Command {
     TurnOn,
@@ -107,7 +105,7 @@ fn part_2(input: &str) -> usize {
 }
 
 fn main() {
-    let input = fs::read_to_string("../input.txt").unwrap();
+    let input = include_str!("../../input.txt");
 
     println!("Part 1: {}", part_1(&input));
     println!("Part 2: {}", part_2(&input));

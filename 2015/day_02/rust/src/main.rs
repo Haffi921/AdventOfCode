@@ -1,4 +1,4 @@
-use std::{fs, str::Lines};
+use std::str::Lines;
 
 struct ChristmasBox {
     l: i32,
@@ -72,7 +72,7 @@ fn part2(input: &str) -> i32 {
 }
 
 fn main() {
-    let input = fs::read_to_string("../input.txt").unwrap();
+    let input = include_str!("../../input.txt");
     println!("Part 1: {} square feet", part1(&input));
     println!("Part 2: {} feet", part2(&input));
 }

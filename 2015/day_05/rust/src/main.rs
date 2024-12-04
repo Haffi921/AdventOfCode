@@ -1,5 +1,3 @@
-use std::fs;
-
 fn is_part_1_nice_string(s: &str) -> bool {
     fn is_char_vowel(c: char) -> bool {
         "aeiou".contains(c)
@@ -61,7 +59,7 @@ where
 }
 
 fn main() {
-    let input = fs::read_to_string("../input.txt").unwrap();
+    let input = include_str!("../../input.txt");
     println!(
         "Part 1: {} strings",
         nice_strings(&input, is_part_1_nice_string)

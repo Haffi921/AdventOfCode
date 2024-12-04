@@ -1,6 +1,6 @@
 use md5::{compute, Digest};
 
-const PUZZLE_INPUT: &str = "yzbqklnj";
+const PUZZLE_INPUT: &str = include_str!("../../input.txt");
 
 fn find_md5_starting_with(pattern: &str, starting_number: usize) -> (usize, Digest) {
     let mut number: usize = starting_number;
